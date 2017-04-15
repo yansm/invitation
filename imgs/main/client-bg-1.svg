@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="252px" height="230px" viewBox="0 0 252 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="198.4" cy="37.3778409" rx="23.4" ry="23.3778409"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="时间转让说明-1" transform="translate(-58.000000, -75.000000)">
+            <g id="Group-13" transform="translate(58.000000, 75.000000)">
+                <g id="Group-4" transform="translate(127.600000, 27.181818)" fill="#ED7538">
+                    <rect id="Rectangle-15" x="0" y="0" width="4.8" height="125.880682"></rect>
+                    <rect id="Rectangle-15-Copy" x="9.6" y="0" width="4.8" height="125.880682"></rect>
+                    <rect id="Rectangle-15-Copy-2" x="19.2" y="0" width="4.8" height="125.880682"></rect>
+                </g>
+                <g id="Group-6" transform="translate(199.200000, 87.125000)" fill="#ED7538">
+                    <rect id="Rectangle-5" x="0" y="0" width="52.8" height="9.59090909"></rect>
+                    <rect id="Rectangle-5-Copy" x="0" y="15.5852273" width="52.8" height="9.59090909"></rect>
+                    <rect id="Rectangle-5-Copy-2" x="0" y="31.1704545" width="52.8" height="9.59090909"></rect>
+                </g>
+                <g id="Group-8" transform="translate(19.000000, 25.000000)" fill="#ED7538">
+                    <rect id="Rectangle-17" x="0" y="8" width="26.4315789" height="10.7897727"></rect>
+                    <rect id="Rectangle-17" transform="translate(13.394886, 13.215789) rotate(-270.000000) translate(-13.394886, -13.215789) " x="0.17909689" y="7.82090311" width="26.4315789" height="10.7897727"></rect>
+                </g>
+                <g id="Group-12" transform="translate(72.400000, 26.159091)" fill="#ED7538">
+                    <rect id="Rectangle-18" x="0" y="0" width="9.6" height="9.59090909"></rect>
+                    <rect id="Rectangle-18-Copy" x="9.6" y="9.59090909" width="9.6" height="9.59090909"></rect>
+                    <rect id="Rectangle-18-Copy-2" x="19.2" y="19.1818182" width="9.6" height="9.59090909"></rect>
+                </g>
+                <g id="Group-5" transform="translate(212.800000, 148.267045)" stroke-width="3.69600008" stroke="#ED7538">
+                    <polyline id="Path-4" points="0 10.0268595 14.0651163 0 28.8 10.0268595"></polyline>
+                    <polyline id="Path-4-Copy" points="0 19.2181474 14.0651163 9.19128788 28.8 19.2181474"></polyline>
+                    <polyline id="Path-4-Copy-2" points="0 27.5738636 14.0651163 17.5470041 28.8 27.5738636"></polyline>
+                </g>
+                <g id="Group-10" transform="translate(27.200000, 166.250000)" fill="#ED7538">
+                    <rect id="Rectangle-19" x="7.71428571" y="0" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-4" x="23.1428571" y="0" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-8" x="38.5714286" y="0" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy" x="0" y="7.59280303" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-5" x="15.4285714" y="7.59280303" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-6" x="30.8571429" y="7.59280303" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-9" x="46.2857143" y="7.59280303" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-3" x="7.71428571" y="15.1856061" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-7" x="23.1428571" y="15.1856061" width="7.71428571" height="7.59280303"></rect>
+                    <rect id="Rectangle-19-Copy-10" x="38.5714286" y="15.1856061" width="7.71428571" height="7.59280303"></rect>
+                </g>
+                <g id="Group-11" transform="translate(162.400000, 175.840909)" fill="#ED7538">
+                    <polygon id="Rectangle-21" points="0 4.98986486 3.52941176 0 7.05882353 4.98986486 7.05882353 26.375 0 26.375"></polygon>
+                    <polygon id="Rectangle-21-Copy" points="10.8 4.98986486 14.3294118 0 17.8588235 4.98986486 17.8588235 26.375 10.8 26.375"></polygon>
+                    <polygon id="Rectangle-21-Copy-2" points="21.6 4.98986486 25.1294118 0 28.6588235 4.98986486 28.6588235 26.375 21.6 26.375"></polygon>
+                </g>
+                <circle id="Oval-15" fill="#FFFFFF" cx="185.5" cy="160.5" r="4.5"></circle>
+                <circle id="Oval-15-Copy" fill="#FFFFFF" cx="5" cy="84" r="3"></circle>
+                <g id="Oval-14">
+                    <use fill="#ED7538" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <ellipse stroke="#ED7538" stroke-width="6" cx="198.4" cy="37.3778409" rx="20.4" ry="20.3778409"></ellipse>
+                </g>
+                <rect id="Rectangle-3" stroke="#ED7538" stroke-width="4.8" x="93.9023697" y="2.9" width="12.1876777" height="12.1715909"></rect>
+                <rect id="Rectangle-3-Copy" stroke="#FFFFFF" stroke-width="4.8" x="114.4" y="35.4" width="1.17725118" height="1.17159091"></rect>
+                <rect id="Rectangle-3-Copy-2" stroke="#FFFFFF" stroke-width="4.8" x="225.4" y="67.4" width="3.2" height="3.19242424"></rect>
+                <rect id="Rectangle-3-Copy-3" stroke="#FFFFFF" stroke-width="4.8" x="48.4" y="204.4" width="1.17725118" height="1.17159091"></rect>
+                <rect id="Rectangle-16" fill="#ED7538" transform="translate(40.220772, 106.127760) rotate(-315.000000) translate(-40.220772, -106.127760) " x="12.2207716" y="78.1542747" width="56" height="55.9469697"></rect>
+                <polygon id="Rectangle-16-Copy" fill="#ED7538" transform="translate(114.203159, 197.203159) rotate(-315.000000) translate(-114.203159, -197.203159) " points="129.203159 182.217364 129.203159 212.188955 99.2031593 212.188955"></polygon>
+                <circle id="Oval-15-Copy-2" fill="#FFFFFF" cx="69" cy="145" r="2"></circle>
+                <g id="Group-2" transform="translate(144.000000, 214.000000)" fill="#ED7538">
+                    <rect id="Rectangle-14" transform="translate(7.895035, 8.000000) rotate(45.000000) translate(-7.895035, -8.000000) " x="5.89503452" y="-1.09090909" width="4" height="18.1818182"></rect>
+                    <rect id="Rectangle-14" transform="translate(7.895035, 8.000000) scale(-1, 1) rotate(45.000000) translate(-7.895035, -8.000000) " x="5.89503452" y="-1.09090909" width="4" height="18.1818182"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="282px" height="182px" viewBox="0 0 282 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>✉️</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.546875,0 L270,170 L21.0998415,170 C15.271599,170 10.546875,165.275797 10.546875,159.446001 L10.546875,0 Z" id="path-1"></path>
+        <filter x="-3.9%" y="-7.1%" width="107.7%" height="111.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.202275815 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="259.453125" height="170" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M0,0 L260.987299,162.736117 C267.421096,166.747849 266.495222,170 258.906345,170 L10.5622798,170 C4.72889376,170 0,165.275797 0,159.446001 L0,0 Z" id="path-4"></path>
+        <filter x="-3.8%" y="-7.1%" width="107.5%" height="111.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="265.266707" height="170" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-48.000000, -415.000000)">
+            <g id="Group-7" transform="translate(-238.000000, -181.000000)">
+                <g id="✉️" transform="translate(292.000000, 604.000000)">
+                    <g id="Rectangle" stroke-dasharray="7.040000104904175" transform="translate(140.273438, 85.000000) scale(-1, 1) translate(-140.273438, -85.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#207FD8" mask="url(#mask-3)" stroke-width="4.224" fill="#4199E9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle" stroke-dasharray="7.040000104904175,7.040000104904175">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use stroke="#207FD8" mask="url(#mask-6)" stroke-width="3.52" fill="#4EA8FB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <text id="你好nihao.com-copy" opacity="0.600000024" font-family="PingFangSC-Regular, PingFang SC" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="103" y="154">你好nihao.com</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
