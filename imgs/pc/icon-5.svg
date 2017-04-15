@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_vip</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="content" transform="translate(-647.000000, -704.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="VIP" transform="translate(647.000000, 704.000000)">
+                <path d="M14.9998221,0 L4.99997459,0 C2.23876502,0 0,2.23860404 0,5.00000635 L3.52832297e-16,14.9999428 C3.52832297e-16,17.7610656 2.23876502,20 4.99997459,20 L14.9998221,20 C17.7612858,20 20,17.7610657 20,14.9999428 L20,5.00000635 C20,2.23860404 17.7612858,0 14.9998221,0 Z M10.0636192,16.2500651 L9.88892052,16.2500651 L3.62845281,5.00000635 L7.55985894,5.00000635 L10.0648895,10.8074193 L12.5902711,5.00000635 L16.3225879,5.00000635 L10.0636192,16.2500651 Z" id="icon_vip"></path>
+            </g>
+        </g>
+    </g>
+</svg>

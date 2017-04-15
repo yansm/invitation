@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1342px" height="980px" viewBox="0 0 1342 980" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="876.069899" cy="466.093769" rx="465.882983" ry="466.093769"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="931.765966" height="932.187538" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="359.177492" cy="620.34" rx="359.177492" ry="359.34"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="718.354985" height="718.68" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="10.3846155166626,15.57692241668701" opacity="0.400000006">
+        <g id="Group" stroke="#FEFEFE" stroke-width="14.4">
+            <use id="Oval-6-Copy" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Oval-6-Copy-2" mask="url(#mask-4)" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>
