@@ -15,9 +15,19 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="icon" type="image/png" href="./imgs/lp/logo.jpg">
     <link rel="apple-touch-icon-precomposed" href="./imgs/lp/logo.jpg">
-    <link rel="stylesheet" type="text/css" href="./css/time_main-e70b8f99.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/time_main-3bf74382.css"/>
 </head>
 <body class="invitation-body" data-invitation='true'>
+ <div class="invitation-mask">
+    <div class="spinner">
+      <div class="rect1"></div>
+      <div class="rect2"></div>
+      <div class="rect3"></div>
+      <div class="rect4"></div>
+      <div class="rect5"></div>
+    </div>
+    <aside>loading···</aside>
+  </div>
   <div class="swiper-container invitation-swiper">
     <div class="swiper-wrapper">
         <div class="swiper-slide invitation-page-1">
@@ -97,13 +107,30 @@
             <div class="title ts">你好nihao.com</div>
             <div class="aside"><img src="./imgs/invitation/banner-aside3.png"></div>
           </div>
-          <div class="invitation-speech"></div>
-          <div class="invitation-p d3">
+          <div class="invitation-speech" id="speech">
+            <div class="speech-item speech-item-1"><aside>服务人</aside></div>
+            <div class="speech-item speech-item-2"><aside>服务时间</aside></div>
+            <div class="speech-item speech-item-3"><aside>时间</aside></div>
+            <div class="speech-text speech-text-1">
+              <p>提供</p>
+              <div class="line line-1"></div>
+              <div class="line line-2"></div>
+              <div class="line line-3"></div>
+            </div>
+            <div class="speech-text speech-text-2">
+              <p>使用</p>
+              <div class="line"></div>
+            </div>
+            <div class="speech-text speech-text-3">
+              <p>兑换</p>
+              <div class="line"></div>
+            </div>
+          </div>
+          <div class="invitation-p d2">
             <p>我们期待携手全世界有趣的人，一起来创造这个世界上前所未有的服务和体验，为全球用户提供全新的生活方式。</p>
             <aside><h3>Example</h3>你发行100万秒时间，10元/秒的价格，合计1000万元，通过你好nihao.com 平台迅速卖光，您可以立即获得50%分账的500万元合作收入。</aside>
           </div>
           <div class="invitation-arrow"></div>
-
         </div>
         <div class="swiper-slide invitation-page-4 invitation-page">
          <div class="invitation-banner-box">
@@ -168,8 +195,16 @@
     </div>
     <div class="swiper-pagination"></div>
   </div>
+  <script type="text/javascript">
+    var IMG_URLS = [
+      "./imgs/invitation/xuhao.jpg",
+      "./imgs/invitation/envelope-top.svg",
+      "./imgs/invitation/logo.png",
+      "./imgs/invitation/envelope-bg.svg",
+    ]
+  </script>
 <script type="text/javascript" src="./js/time_base_m-7665393b.js"></script>
 <script type="text/javascript" src="./js/time_swiper-076a6d34.js"></script>
-<script type="text/javascript" src="./js/time_main-b76614a7.js"></script>
+<script type="text/javascript" src="./js/time_main-a1825cb2.js"></script>
 </body>
 </html>
